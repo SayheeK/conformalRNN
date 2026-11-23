@@ -1,0 +1,12 @@
+Package: conformalRNN
+Title: Conformal Prediction for Multi-Step Time Series Forecasting Using Vanilla RNNs
+Version: 0.0.0.9000
+Authors@R: 
+    person("Sehee", "Kim", , "seheekim@tamu.edu", role = c("aut", "cre"))
+Description: Provides tools for multi-horizon time series forecasting and uncertainty qunatification 
+              using conformal prediction. Includes functions for constructing conformal prediction intervals
+              and for working with RNN(recurrent neural network) forecasts.
+License: GPL (>= 3)
+Config/roxygen2/version: 8.1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
