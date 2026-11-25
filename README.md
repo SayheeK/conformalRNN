@@ -14,6 +14,12 @@ In particular, the method is intended for settings with multiple independent tim
 where the calibration and future series can reasonably be viewed as arising from the same underlying data-generating mechanism 
 and therefore exhibit comparable statistical characteristics.
 
+## Remaining Work 
+
+I plan to complete the remaining CF-RNN functions for calibration, prediction, and evaluation, finalize the Vanilla RNN implementation, 
+add unit tests with code coverage, and create a vignette demonstrating the complete workflow 
+using simulated time series data.
+
 
 ## Installation
 
